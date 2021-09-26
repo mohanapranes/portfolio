@@ -12,8 +12,9 @@ export default class About extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <h2 className="colorlib-heading">About Me</h2>
-                    <p> I'm an Undergraduate sophomore currently undertaking  Bachelors course in electronics and communication. I love to learn new things and share my knowledge in this journey with all friends and peers </p>
-                    <p>I'm Deeply passionate in Open source and management.Trying to Explore different fields of interest like (Finance,Strategy Management) </p>
+                    <p>  Hey guys it's mohanapranes here, I am currently a studying B.tech Information technology in Bannari Amman Institute of Technology.</p>
+                    <p>I'm passionate about programming and quite curious to learn different technologies. Now I am looking for an opportunity to devlope my skills with good team. </p>
+                    
                     </div>
                 </div>
                 </div>
@@ -28,18 +29,8 @@ export default class About extends Component {
                 <h2 className="colorlib-heading">Here Are Some Of My Skills</h2>
             </div>
             </div>
-            <div className="row row-pt-md">
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-bulb" />
-                </span>
-                <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>Design And Analysing Algorithms  </p>
-                </div>
-                </div>
-            </div>
+            <div className="col row-pt-md">
+            
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
@@ -47,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Languages</h3>
-                    <p>C|C++|Python|Rust|Sql|JavaScript</p>
+                    <p>C | C++ | Python | Rust | JavaScript | SQL</p>
                 </div>
                 </div>
             </div>
@@ -58,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Frameworks</h3>
-                    <p>React|Flask|FastAPI</p>
+                    <p>React | Flask | FastAPI</p>
                 </div>
                 </div>
             </div>
@@ -70,20 +61,10 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Tools</h3>
-                    <p>Git|Linux|MySql </p>
+                    <p>Git | Linux | MySql </p>
                 </div>
                 </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-star3" />
-                </span>
-                <div className="desc">
-                    <h3>Problem Solving</h3>
-                    <p>Real Innovation is About Solving Problem </p>
-                </div>
-                </div>
+             
             </div>
             
             </div>
